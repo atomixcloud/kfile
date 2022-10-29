@@ -1,3 +1,7 @@
+# Kfile: Determine file type
+
+This repository is built from the Linux file(1) source with customized build environment for easy understanding.
+
 $ ./file ./file
 ./file: data
 
